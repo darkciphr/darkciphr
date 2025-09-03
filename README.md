@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/darkciphr.png)
+![TryHackMe_Badge](https://tryhackme-badges.s3.amazonaws.com/darkciphr.png)
+
 
 <!--
 **darkciphr/darkciphr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
