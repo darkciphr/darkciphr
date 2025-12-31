@@ -1,6 +1,8 @@
 ## Hi there 👋
 
 ![TryHackMe_Badge](https://tryhackme-badges.s3.amazonaws.com/darkciphr.png)
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5386027" style='border:none;'></iframe>
+
 
 
 ## 🧑‍💻 Projects & Write-ups
